@@ -11,7 +11,9 @@ Execute o seguinte comando para instalar as dependências do projeto:
 
 bash
 Copy code
+```bash
 npm install
+
 Este comando baixará e instalará as bibliotecas necessárias para o funcionamento do conversor de imagens.
 
 ## Uso
@@ -19,7 +21,9 @@ Após a instalação das dependências, utilize o seguinte comando para iniciar 
 
 bash
 Copy code
+```bash
 npm run start
+
 O conversor estará agora pronto para receber suas imagens e convertê-las para o formato desejado.
 
 Certifique-se de colocar as imagens que deseja converter na pasta específica designada para entrada. O resultado convertido será armazenado na pasta de saída.
