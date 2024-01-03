@@ -13,9 +13,9 @@ Certifique-se de ter o Node.js e o npm instalados em seu sistema antes de prosse
 
 Execute o seguinte comando para instalar as dependências do projeto:
 
-\``bash
+```bash
 npm install
-\``
+```
 
 Este comando baixará e instalará as bibliotecas necessárias para o funcionamento do conversor de imagens.
 
@@ -23,9 +23,9 @@ Este comando baixará e instalará as bibliotecas necessárias para o funcioname
 
 Após a instalação das dependências, utilize o seguinte comando para iniciar o conversor de imagens:
 
-\``bash
+```bash
 npm run start
-\``
+```
 
 O conversor estará agora pronto para receber suas imagens e convertê-las para o formato desejado.
 
