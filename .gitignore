@@ -1,2 +1,7 @@
 /node_modules/
 /package-lock.json
+/.idea/convert-png-webp.iml
+/.idea/deployment.xml
+/.idea/jsLibraryMappings.xml
+/.idea/modules.xml
+/.idea/vcs.xml
