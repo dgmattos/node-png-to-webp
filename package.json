@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "electron": "^28.0.0",
+    "jimp": "^0.22.10",
+    "sharp": "^0.33.1"
+  },
+  "name": "convert-png-webp",
+  "version": "1.0.0",
+  "main": "main.js",
+  "devDependencies": {
+    "electron-rebuild": "^3.2.9"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "rebuild": "electron-rebuild -f -w sharp",
+    "start": "electron main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
