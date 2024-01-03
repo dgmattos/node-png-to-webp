@@ -1,6 +1,6 @@
-# Conversor de Imagens
+# Conversor de Imagens PNG para WEBP
 
-Este é um projeto simples de conversor de imagens desenvolvido em Node.js. Ele permite converter imagens de um formato para outro de maneira fácil e rápida.
+Este é um projeto simples de conversor de imagens desenvolvido em Node.js. Ele permite converter imagens de um formato PNG para WEBP de maneira fácil e rápida.
 
 ## Pré-requisitos
 
